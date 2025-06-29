@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Ping Wan"
+description              : &description "PhD student at UIC"
+url                      : https://pingwan-math.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pingwan-math.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : # "profile.png"
-  name             : # "Your Sidebar Name"
+  name             : "Ping Wan"
   pronouns         : "they/them"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : # "Earth"
+  bio              : "PhD student at UIC. Interested in Geometric Group Theory."
+  location         : "Chicago, Illinois"
   employer         : "University of Illinois Chicago"
   uri              : # URL
   email            : "pwan5@uic.edu" 
