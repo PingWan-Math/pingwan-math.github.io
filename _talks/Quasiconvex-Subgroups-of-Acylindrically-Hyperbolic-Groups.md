@@ -8,4 +8,4 @@ date: 2025-06-03
 location: "Madison, WI, USA"
 ---
 
-This talk introduced the definition of $(G,\mathcal{P}$-quasiconvex subgroup. See
+This talk introduced the definition of $(G,\mathcal{P})$-quasiconvex subgroup. See
